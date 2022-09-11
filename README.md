@@ -1,6 +1,5 @@
-<img align="center" alt="Coding" width="100%" src="https://c.tenor.com/Bsc24Fia060AAAAC/anime-banner.gif">
 <h1 align="center">Hi 👋, I'm NIKHILESH SINGH</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/10/anime-gif-hi-9.gif">
 
 
