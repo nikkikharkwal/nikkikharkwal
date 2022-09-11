@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NIKHILESH SINGH</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://gifimage.net/wp-content/uploads/2018/10/anime-gif-hi-9.gif">
+<img align="right" alt="Coding" width="360" src="https://gifimage.net/wp-content/uploads/2018/10/anime-gif-hi-9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkikharkwal&label=Profile%20views&color=0e75b6&style=flat" alt="nikkikharkwal" /> </p>
