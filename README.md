@@ -1,6 +1,7 @@
+<img align="center" alt="Coding" width="100%" src="https://c.tenor.com/Bsc24Fia060AAAAC/anime-banner.gif">
 <h1 align="center">Hi 👋, I'm NIKHILESH SINGH</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://ia903005.us.archive.org/15/items/AnimeChillStudying/ezgif.com-resize.gif">
+<img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/10/anime-gif-hi-9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkikharkwal&label=Profile%20views&color=0e75b6&style=flat" alt="nikkikharkwal" /> </p>
