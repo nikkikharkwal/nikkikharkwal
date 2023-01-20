@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NIKHILESH SINGH</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="360" src="https://gifimage.net/wp-content/uploads/2018/10/anime-gif-hi-9.gif">
 
 
