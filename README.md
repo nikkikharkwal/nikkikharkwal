@@ -14,6 +14,9 @@
 - 💬 Ask me about **anything either I'll recall or I'll learn**
 
 - 📫 How to reach me **nikki.kharkwal@gmail.com**
+ <h2> Checkout my Portfolio ⬇️</h2>
+ <a href="https://nikkikharkwal.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
